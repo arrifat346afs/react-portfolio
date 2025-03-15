@@ -8,9 +8,9 @@ function Contact() {
     email: "",
     message: "",
   });
-  const SERVICE_ID = "service_izhj8ea";
-  const TEMPLATE_ID = "template_vlvz1c8";
-  const PUBLIC_KEY = "r8RE4rMxgWf2MOi2b";
+  const SERVICE_ID = "";
+  const TEMPLATE_ID = "";
+  const PUBLIC_KEY = "";
 
   const handleSubmit = (e) => {
     e.preventDefault();
